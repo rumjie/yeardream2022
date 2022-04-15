@@ -1,12 +1,19 @@
-## Welcome to GitHub Pages
+## 이어드림 2기 study porforlio
 
-You can use the [editor on GitHub](https://github.com/Rum-j/yeardream2022/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+22년 4월 1일부터 시작한 이어드림스쿨 2기!
+다음과 같은 내용을 배웠습니다
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## 이산수학
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. Type of data (https://github.com/Rum-j/yeardream2022/blob/main/1.Types_of_data_DiscreteMath.html)
+2. Logical gate
+
+## 파이썬 기초
+
+----------------------------------------------   
+깃허브 초보가 보려고 남겨두는 깃허브 페이지 설명
+----------------------------------------------   
 
 ```markdown
 Syntax highlighted code block
@@ -27,11 +34,3 @@ Syntax highlighted code block
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Rum-j/yeardream2022/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
