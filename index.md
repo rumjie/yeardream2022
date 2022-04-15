@@ -6,15 +6,15 @@
 
 ## 이산수학
 
-1. [Type of data](https://github.com/Rum-j/yeardream2022/blob/main/2022-04-15-typeofdata.html)
+1. [Type of data](2022-04-15-typeofdata.html)
 2. Logical gate
 
 ## 파이썬 기초
 
 
-----------------------------------------------   
+<hr/>
 깃허브 초보가 보려고 남겨두는 깃허브 페이지 설명   
-----------------------------------------------   
+<hr/>
 
 ```markdown
 Syntax highlighted code block
