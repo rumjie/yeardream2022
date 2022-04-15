@@ -6,7 +6,7 @@
 
 ## 이산수학
 
-1. Type of data (https://github.com/Rum-j/yeardream2022/blob/main/1.Types_of_data_DiscreteMath.html)
+1. [Type of data](https://github.com/Rum-j/yeardream2022/blob/main/1.Types_of_data_DiscreteMath.html)
 2. Logical gate
 
 ## 파이썬 기초
