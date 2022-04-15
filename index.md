@@ -6,8 +6,8 @@
 
 ## 이산수학
 
-1. [Type of data](1.Types_of_data_DiscreteMath.html)
-2. Logical gate
+1. [Type of data](1.Types_of_data_DiscreteMath.html)<br/>
+2. Logical gate<br/>
 
 ## 파이썬 기초
 
