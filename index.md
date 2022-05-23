@@ -9,35 +9,14 @@
 1. [Type of data](1.Types_of_data_DiscreteMath.html)<br/>
 2. [Logical gate](2.Logical_gate.html) <br/>
 3. 함수
-
+---
 ## 파이썬 기초
-
+1. List
+---
 ## 백준 문제풀이
 1. [기본 수학2](joon_math2.ipynb) <br/>
-
-##Project
-1. [Mini project - 강의 구매 정보 데이터 EDA] (offline_mid_4_report_final.html).<br/>
-
-<hr/>
-깃허브 초보가 보려고 남겨두는 깃허브 페이지 설명   
-<hr/>
 ---
-```markdown
-Syntax highlighted code block
+##Project
+1. [Mini project - 강의 구매 정보 데이터 EDA](offline_mid_4_report_final.html) <br/>
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+---
