@@ -15,10 +15,13 @@
 ## 백준 문제풀이
 1. [기본 수학2](joon_math2.ipynb) <br/>
 
+##Project
+1. [Mini project - 강의 구매 정보 데이터 EDA] (offline_mid_4_report_final.html).<br/>
+
 <hr/>
 깃허브 초보가 보려고 남겨두는 깃허브 페이지 설명   
 <hr/>
-
+---
 ```markdown
 Syntax highlighted code block
 
