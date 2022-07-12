@@ -4,7 +4,7 @@ Since 22.04.01~
 
 😎
 
-개발환경: Juypter Notebook, colab (IDE trying on: Pychamrm) 
+개발환경: Juypter Notebook, colab (IDE trying on: Pycharm) <br>
 언어 :python 3.8.x <br>
 라이브러리: Numpy, Pandas, Scikit-learn, tensorflow <br>
 
