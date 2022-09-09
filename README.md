@@ -4,9 +4,12 @@ Since 22.04.01~
 
 😎
 
-개발환경: Juypter Notebook, colab (IDE trying on: Pycharm) <br>
-언어 :python 3.8.x <br>
+개발환경<br>
+Tools: python 3.8 on VS code, Juypter Notebook <br>
 라이브러리: Numpy, Pandas, Scikit-learn, tensorflow <br>
+
+Repo descriptions <br>
+TIL: 자료구조, 알고리즘 등 강의에서 배운 내용에 대한 실습을 업로드합니다
 
 ...Building...   
 https://rum-j.github.io/yeardream2022/
