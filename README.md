@@ -12,4 +12,4 @@ Repo descriptions <br>
 TIL: 자료구조, 알고리즘 등 강의에서 배운 내용에 대한 실습을 업로드합니다
 
 ...Building...   
-https://rum-j.github.io/yeardream2022/
+https://rumjie.github.io/yeardream2022/
